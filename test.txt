@@ -18,6 +18,17 @@ git rebase modify test1
 git rebase modify test2
 git rebase modify test3
 
+<<<<<<< HEAD
+=======
+git merge --squash test12321
+git merge --squash test
+git merge --squash test
+git merge --squash test
+git merge --squash test
+git merge --squash test
+git merge --squash test
+git merge --squash test
+>>>>>>> testBranch
 git merge --squash test
 git merge --squash test
 git merge --squash test
