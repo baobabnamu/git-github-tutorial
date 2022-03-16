@@ -8,3 +8,5 @@ git commit amend test success
 revert test1
 
 reset test1
+
+cherry pick test1
