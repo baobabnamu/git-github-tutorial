@@ -15,3 +15,5 @@ git rebase test1
 git rebase test2
 
 git rebase modify test1
+git rebase modify test2
+git rebase modify test3
