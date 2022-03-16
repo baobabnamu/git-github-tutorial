@@ -6,3 +6,4 @@ git commit amend test
 git commit amend test success
 
 revert test1
+revert test2
