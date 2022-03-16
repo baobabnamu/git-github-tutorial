@@ -19,3 +19,6 @@ git rebase modify test2
 git rebase modify test3
 
 git merge --squash test
+git merge --squash test
+git merge --squash test
+git merge --squash test
