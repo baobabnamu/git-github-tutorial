@@ -10,3 +10,6 @@ revert test1
 reset test1
 
 cherry pick test1
+
+git rebase test1
+git rebase test2
